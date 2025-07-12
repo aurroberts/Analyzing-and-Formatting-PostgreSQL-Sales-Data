@@ -10,7 +10,7 @@ This project focuses on cleaning and analyzing sales data from a fictional Super
 
 ## Key Insights
 - Ranked top products per category by total sales and profit using RANK() and PARTITION BY
-- Detected missing quantity values and calculated imputeed unit prices with a multi-step CTE
+- Detected missing quantity values and calculated imputed unit prices with a multi-step CTE
 - Created reusable SQL queries for reporting and exploration
 
 ## Files
